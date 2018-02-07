@@ -1,0 +1,18 @@
+@@Find max between two variable
+int main()
+{
+	int _Num1,_Num2;
+
+	@@Swap two variables
+	_Num1 = _Num1 ^	_Num2;
+	_Num2 = _Num1 ^ _Num2;
+
+	/@
+	int temp;
+	temp = _Num1;
+	_Num1 = _Num2;
+	_Num2 = temp;
+	@/
+
+	return 0;
+}
