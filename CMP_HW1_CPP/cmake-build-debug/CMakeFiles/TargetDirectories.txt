@@ -1,0 +1,3 @@
+/Users/mohammadmahdi/Development/CLionProjects/CMP_HW1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mohammadmahdi/Development/CLionProjects/CMP_HW1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mohammadmahdi/Development/CLionProjects/CMP_HW1/cmake-build-debug/CMakeFiles/CMP_HW1.dir
